@@ -12,7 +12,7 @@
 
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ekkoc2021&theme=transparent&show_icons=true&hide_border=true" /> -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ekkoc2021&theme=transparent&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Ekkoc2021&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
@@ -24,18 +24,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkoc2021&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
-</p>
 
+</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkoc2021&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <img src="https://img.shields.io/badge/QQ-189890049-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Ekkoc2021&abbreviated=true&color=yellow" />
 </p>
-
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
