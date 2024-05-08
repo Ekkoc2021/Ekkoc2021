@@ -24,7 +24,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkoc2021&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ekkoc2021&theme=xcode" /> </div>
 </p>
 
 <!-- https://github.com/badges/shields -->
