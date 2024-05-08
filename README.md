@@ -16,10 +16,6 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Ekkoc2021&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Ekkoc2021&theme=github-compact&hide_border=true&area=true" />
-<br/>
 <table>
   <tr>
     <td>
@@ -30,6 +26,7 @@
       </picture>
   </tr>
 </table>
+<br/>
 <!-- https://github.com/anuraghazra/github-readme-stats  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ekkoc2021&theme=transparent&hide_border=true&layout=compact&langs_count=22" />-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
