@@ -1,4 +1,4 @@
-<!-- https://github.com/kyechan99/capsule-render -->
+<!-- https://github.com/kyechan99/capsule-render -->189890049
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Ekkoc2021!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
@@ -12,7 +12,7 @@
 
   
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ekkoc2021&theme=transparent&show_icons=true&hide_border=true" />
+<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Ekkoc2021&theme=transparent&show_icons=true&hide_border=true" /> -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Ekkoc2021&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
@@ -30,8 +30,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
-<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+<img src="https://img.shields.io/badge/QQ-189890049-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Ekkoc2021&abbreviated=true&color=yellow" />
 </p>
