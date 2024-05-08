@@ -24,12 +24,5 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekkoc2021&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ekkoc2021&theme=xcode" /> </div>
-</p>
-
-<!-- https://github.com/badges/shields -->
-<p align="center">
-<img src="https://img.shields.io/badge/QQ-189890049-green?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 </p>
 </p>
